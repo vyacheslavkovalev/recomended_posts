@@ -1,0 +1,10 @@
+sqlalchemy==1.4.32
+psycopg2-binary==2.9.3
+uvicorn==0.17.6
+fastapi==0.75.1
+pandas==1.4.2
+sqlalchemy==1.4.35
+catboost==1.0.6
+numpy==1.22.4
+pydantic==1.9.1
+loguru==0.6.0
